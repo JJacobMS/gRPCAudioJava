@@ -34,7 +34,7 @@ public class Cliente {
         //streamWav(ch,nombre,48000F);
 
         //Primero se descarga y despues se ejecuta
-        nombre = "tiesto.mp3";
+        nombre = "anyma.mp3";
         ByteArrayInputStream streamMP3 = downloadFile(ch, nombre);
         playMp3(streamMP3, nombre);
         try {
