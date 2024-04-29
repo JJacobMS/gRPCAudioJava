@@ -1,0 +1,2 @@
+obj\Debug\net8.0\proto/Audio.cs \
+obj\Debug\net8.0\proto/AudioGrpc.cs: proto/audio.proto
